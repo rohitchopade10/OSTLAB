@@ -6,4 +6,5 @@ a=[5,10,15,20]
 print("Given List is ",a)
 
 print(sum_list(a))'''
+#Name = Rohit
 
